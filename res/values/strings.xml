@@ -5,4 +5,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
 
+    <!-- ACTIVITY SHOW -->
+    <string name="show_label_nome">Nome:</string>
+    <string name="show_label_estado_cidade">Estado/Cidade:</string>
+    <string name="show_label_email">E-mail:</string>
+    <string name="show_label_telefone">Telefone:</string>
+    <string name="show_label_celular">Celular:</string>
+
 </resources>

@@ -16,6 +16,12 @@
         <activity
             android:name="br.com.kiwiofficehour.agenda.PrincipalActivity"
             android:label="@string/app_name" >
+        </activity>
+        
+        <activity android:name="br.com.kiwiofficehour.agenda.ShowActivity" >
+        </activity>
+        
+        <activity android:name="br.com.kiwiofficehour.agenda.FormActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
